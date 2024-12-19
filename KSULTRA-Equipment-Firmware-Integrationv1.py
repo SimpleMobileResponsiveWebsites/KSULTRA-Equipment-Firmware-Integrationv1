@@ -2,8 +2,10 @@ import streamlit as st
 
 # Title and Introduction
 st.title("KSULTRA Equipment Firmware Integration")
+
+# Markdown content with proper string termination
 st.markdown("""
-This application demonstrates how to integrate firmware for KSULTRA equipment, emphasizing the use of secure hashing, algorithms, and real-time processing.
+This application demonstrates how to integrate firmware for KSULTRA equipment, emphasizing the use of secure hashing, algorithms, and real-time processing. Below, you can explore the folder structure, CMake integration, and a visual representation.
 """)
 
 # Section 1: Folder Structure
